@@ -1,0 +1,4 @@
+1. arrays
+2. strings
+3. bit manipulation
+4. recursion

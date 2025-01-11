@@ -1,0 +1,25 @@
+? 1. LinearSearchAlgo.java ✅
+
+? 2. FindMaxValue.java ✅
+
+? 3. ProductOfArrayElements.java ✅
+
+? 4. ArrayReverse.java ✅
+
+? 5. SwapArrVals.java ✅
+
+? 6. SearchInRange.java ✅
+
+? 7. BinarySearchAlgo.java ✅
+
+? 8. AdvanceBinarySearch.java ✅
+
+? 9. CeilingNumberInArray.java ✅
+
+? 10. MajorityElementFounder.java ✅
+
+? 11. PairsInArray.java ✅
+
+? 12. BuyAndSellStocks.java ✅
+
+? 13. TrappedRainwater.java ✅
