@@ -1,0 +1,8 @@
+Core java:
+
+1. DataTypes.java ✅
+2. Literals.java ✅
+3. UserInput.java ✅
+4. TypeConversion.java ✅
+5. Methods.java ✅
+6. 
