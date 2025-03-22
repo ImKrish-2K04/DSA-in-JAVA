@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AllSorts",
+            "request": "launch",
+            "mainClass": "AllSorts",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "AdvanceBinarySearch",
+            "request": "launch",
+            "mainClass": "AdvanceBinarySearch",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAsFuncArgs",
+            "request": "launch",
+            "mainClass": "ArrayAsFuncArgs",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "ArrayIntro",
+            "request": "launch",
+            "mainClass": "ArrayIntro",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "ArrayListDemo",
+            "request": "launch",
+            "mainClass": "ArrayListDemo",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "ArrayReverse",
+            "request": "launch",
+            "mainClass": "ArrayReverse",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearchAlgo",
+            "request": "launch",
+            "mainClass": "BinarySearchAlgo",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "CeilingNumberInArray",
+            "request": "launch",
+            "mainClass": "CeilingNumberInArray",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "CharSearchInString",
+            "request": "launch",
+            "mainClass": "CharSearchInString",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "Demo",
+            "request": "launch",
+            "mainClass": "Demo",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "FindMaxValue",
+            "request": "launch",
+            "mainClass": "FindMaxValue",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearchAlgo",
+            "request": "launch",
+            "mainClass": "LinearSearchAlgo",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "MajorityElementFounder",
+            "request": "launch",
+            "mainClass": "MajorityElementFounder",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "MultiDimArr",
+            "request": "launch",
+            "mainClass": "MultiDimArr",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "PairsInArray",
+            "request": "launch",
+            "mainClass": "PairsInArray",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "PrintSubArrays",
+            "request": "launch",
+            "mainClass": "PrintSubArrays",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfArrayElements",
+            "request": "launch",
+            "mainClass": "ProductOfArrayElements",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "SearchInRange",
+            "request": "launch",
+            "mainClass": "SearchInRange",
+            "projectName": "DSA_2df0221f"
+        },
+        {
+            "type": "java",
+            "name": "SwapArrVals",
+            "request": "launch",
+            "mainClass": "SwapArrVals",
+            "projectName": "DSA_2df0221f"
+        }
+    ]
+}

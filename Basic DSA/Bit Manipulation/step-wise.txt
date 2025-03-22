@@ -1,0 +1,10 @@
+1. GetIthBit.java – First, learn how to extract a specific bit from a number.
+2. IsIthBitSetBit.java – Check if a particular bit is set (1) or not.
+3. SetIthBit.java – Understand how to turn a specific bit to 1.
+4. ClearIthBit.java – Learn how to turn a specific bit to 0.
+5. FlipIthBit.java – Explore how to toggle (flip) a particular bit.
+6. UpdateIthBit.java – Combine setting and clearing to update a bit.
+7. ClearLastI_Bits.java – Understand how to clear the last `i` bits of a number.
+8. ClearRangeOfBits.java – Learn how to clear a specific range of bits.
+9. TwoNonRepeating.java – Apply bit manipulation to find two unique numbers in an array.
+10. BitManipInArr1.java – This likely contains multiple bit manipulation operations in an array, making it a good final program for practice.

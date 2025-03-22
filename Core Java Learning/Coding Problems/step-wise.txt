@@ -1,0 +1,32 @@
+1️⃣ Basic Number Operations:
+1. Odd_Even.java (Basic check)  
+2. PalindromeNumber.java (Number reversal logic)  
+3. Reverse_Number.java (Reverse using basic logic)  
+4. ReverseNumber2.java (Alternative reverse logic)  
+5. SumOfDigits.java (Basic sum operation)  
+
+2️⃣ Number System Conversions:
+6. Binary_to_Decimal.java
+7. Decimal_to_Binary.java
+8. TwosComplement.java
+9. TwosComplement_2.java
+
+3️⃣ Mathematical Functions & Properties:
+10. PrimeNumber.java
+11. TotalNoOfDivisors_1.java
+12. TotalNoOfDivisors_2.java
+13. Armstrong.java
+14. PowerFunction.java
+15. PowerOf2.java
+16. BinomialCoEfficient.java
+
+4️⃣ Miscellaneous Logical Programs:
+17. FibonacciSeries.java
+18. LeapYearChecker.java
+19. IncomeTaxChecker.java
+20. HammingWeight.java
+
+5️⃣ Practice & Miscellaneous Files:
+21. Problem1.java
+22. PracticePrgQ2.java
+23. Calculator.java
